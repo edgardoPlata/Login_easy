@@ -8,4 +8,4 @@ a simple Login page
 
 ## Demo
 
-- [Digital_Watch](https://edgardoplata.github.io/Digital_Watch/)
+- [Login](https://edgardoplata.github.io/Login_easy/)
